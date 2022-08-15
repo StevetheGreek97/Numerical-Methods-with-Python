@@ -539,11 +539,11 @@ class RungeKutta():
             ys.append(y)
         return  xs, ys
 
-    def ralston(f, y0, x0, x1, steps):
+    def ralston(f, y0, t, steps):
         """y = ralston(f, y0, t, h)"""
         
-        h = (x1 - x0) / steps
-        xs = np.linspace(x0, x1, steps + 1)
+        h = t / steps
+        xs = np.linspace(0, t, steps + 1)
         y = y0
         ys =[y]
         for x in xs[:-1]:
@@ -555,5 +555,5 @@ class RungeKutta():
             
             
             y = y + (k1*(1/3) + k2*(2/3))*h
-            ys.append(y)
-        return  xs, ys
+
+        return  y
