@@ -32,11 +32,11 @@ In the "Projects" folder, you'll find various projects related to different topi
   - This project provides an analysis of COVID-19 data using Python. You can explore data visualization, statistical analysis, and insights related to the COVID-19 pandemic.
 
 ### 2. Predator-Prey Model
-- [Pray_predator.ipynb](projects/Pray_predator.ipynb)
+- [Pray_predator.ipynb](Projects/Pray_predator.ipynb)
   - Dive into the world of ecological modeling with this project. You'll learn about predator-prey dynamics and how to simulate and analyze them using Python.
 
 ### 3. Replicator Dynamics
-- [Replicator dynamics.ipynb](projects/Replicator%20dynamics.ipynb)
+- [Replicator dynamics.ipynb](Projects/Pray_predator.ipynb)
   - This project explores replicator dynamics, a concept used in evolutionary game theory. You'll understand how to model and analyze the evolution of strategies in competitive scenarios.
 
 Feel free to explore these projects to gain insights into different fields and expand your knowledge and skills. If you have any questions or need assistance with any of these projects, don't hesitate to reach out. Happy coding and learning!
