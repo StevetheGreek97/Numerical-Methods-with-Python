@@ -8,19 +8,19 @@ This tutorial is designed to help you understand and implement various numerical
 
 ### Table of Contents
 
-1. [Numerical Differentiation](Tutorials/"1 - Numerical differentiation.ipynb")
+1. [Numerical Differentiation](<Tutorials/1 - Numerical differentiation.ipynb>)
    - This section covers techniques for approximating derivatives and gradients of functions.
 
-2. [Numerical Integration](Tutorials/2 - Numerical Integration.ipynb)
+2. [Numerical Integration](<Tutorials/2 - Numerical Integration.ipynb>)
    - Learn how to approximate definite integrals of functions using numerical methods.
 
-3. [Root Finding](Tutorials/3 - Root finding.ipynb)
+3. [Root Finding](<Tutorials/3 - Root finding.ipynb>)
    - Explore methods for finding roots of equations, including the famous Newton-Raphson method.
 
-4. [Optimization](4 - Optimization.ipynb)
+4. [Optimization](<Tutorials/4 - Optimization.ipynb>)
    - Understand optimization techniques to find the minimum or maximum of a function.
 
-5. [Differential Equations](5 - Differential Equations.ipynb)
+5. [Differential Equations](<Tutorials/5 - Differential Equations.ipynb>)
    - Dive into solving ordinary differential equations using various numerical methods.
 
 ## Projects
